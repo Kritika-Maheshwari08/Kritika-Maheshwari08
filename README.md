@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hello! I'm Kritika Maheshwari
 
-<!--
-**Kritika-Maheshwari08/Kritika-Maheshwari08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About Me:
+- 🎓 B.Tech Computer Science Engineering (AI/ML)
+- 💻 Learning Web Development, Python, Front-End Projects,and Machine Learning
+- 🚀 Exploring GitHub 
+- 🎯 Interested in Social Media Analytics, Web Projects, and Learning new Technologies
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Skills:
+- HTML, CSS, Bootstrap, Tailwind CSS
+- JavaScript
+- Python Programming
+- Git & GitHub
+
+---
+
+### 📌 Projects:
+- 🚗 [Moving Car Animation](https://github.com/Kritika-Maheshwari08/project_1_lamborghini)
+- 🕒 [Analog Watch](https://github.com/Kritika-Maheshwari08/project_3_analog_watch)
+- 🎮 [Snake Water Gun Game](https://github.com/Kritika-Maheshwari08/snake-water-gun-game)
+
+---
+
+### 📫 Connect with me:
+- Email: kritikamaheshwari43@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kritika-maheshwari-1697bb296/
+
+---
+
+✅ Thanks for visiting my GitHub Profile!

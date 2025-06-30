@@ -17,7 +17,7 @@
 ---
 
 ### 📌 Projects:
-- 🚗 [Moving Car Animation](https://github.com/Kritika-Maheshwari08/project_1_lamborghini)
+- 🚗 [Moving Car Animation](https://YourUsername.github.io/project_1_lamborghini/)
 - 🕒 [Analog Watch](https://github.com/Kritika-Maheshwari08/project_3_analog_watch)
 - 🎮 [Snake Water Gun Game](https://github.com/Kritika-Maheshwari08/snake-water-gun-game)
 

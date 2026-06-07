@@ -54,6 +54,7 @@ I am a Computer Science (AI/ML) graduate passionate about technology, data-drive
 - Tableau
 - MySQL Workbench
 - Visual Studio Code (VS Code)
+- Jupyter Notebook
 - Git
 - GitHub
 
